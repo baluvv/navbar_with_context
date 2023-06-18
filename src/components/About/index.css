@@ -1,0 +1,23 @@
+.about-container {
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 0px;
+}
+.dark-about-container {
+  background-color: #000000;
+}
+
+.about-img {
+  width: 15%;
+}
+
+.about-heading {
+  color: #333333;
+  font-family: 'Roboto';
+}
+.dark-about-heading {
+  color: #ffffff;
+}

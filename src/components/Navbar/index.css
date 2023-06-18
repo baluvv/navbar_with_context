@@ -1,0 +1,60 @@
+.nav-container {
+  height: 10vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style-type: none;
+  padding: 0px;
+  border: 1px solid #dcdcdc;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.dark-nav-container {
+  background-color: #333333;
+}
+
+.website-logo {
+  height: 50px;
+  width: 50px;
+}
+
+.theme {
+  height: 50px;
+  width: 50px;
+}
+
+.nav-item {
+  display: flex;
+  align-items: center;
+}
+
+.home-link {
+  text-decoration: none;
+  margin-right: 20px;
+}
+
+.about-link {
+  text-decoration: none;
+}
+
+.nav-home {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #334155;
+}
+.dark-home {
+  color: #ffffff;
+}
+.nav-about {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #334155;
+}
+.dark-about {
+  color: #ffffff;
+}
+
+.change-button {
+  border-width: 0px;
+  background-color: transparent;
+}

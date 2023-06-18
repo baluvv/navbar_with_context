@@ -1,0 +1,22 @@
+.home-container {
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 0px;
+}
+.dark-home-container {
+  background-color: #000000;
+}
+.home-img {
+  width: 20%;
+}
+
+.home-heading {
+  color: #333333;
+  font-family: 'Roboto';
+}
+.dark-home-heading {
+  color: #ffffff;
+}
